@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
   s.source_files = 'RxCocoa-Texture/Classes/**/*'
 
-  s.dependency 'RxSwift', '~> 5.1'
-  s.dependency 'RxCocoa', '~> 5.1'
+  s.dependency 'RxSwift', '~> 6.1'
+  s.dependency 'RxCocoa', '~> 6.1'
   s.dependency 'Texture', '~> 3.0'
 end
